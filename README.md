@@ -1,4 +1,5 @@
 # TechTrending
+技术的归纳总结，以备不时之需
 
 ## 温故知新
 [Java Guide](https://github.com/Snailclimb/JavaGuide)
