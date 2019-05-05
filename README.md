@@ -5,14 +5,15 @@
 [Java Guide](https://github.com/Snailclimb/JavaGuide)
 
 ## 音视频
+[Bilibili 视频播放器 ijkplayer](https://github.com/Bilibili/ijkplayer)
 [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
 
 ## 性能监控
 [ArgusAPM](https://github.com/Qihoo360/ArgusAPM)
 
-[Booster](https://github.com/didi/booster)
+[app 质量优化框架 Booster](https://github.com/didi/booster)
 
-[TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer)
+[实时显示帧率 TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer)
 
 ## UI 设计规范
 [创建在线样式指南(living style guide): 案例分析](https://www.zcfy.cc/article/creating-a-living-style-guide-a-case-study-ndash-smashing-magazine-299.html)
