@@ -23,3 +23,6 @@
 
 ## 开源框架汇总
 [2018年Android百大框架排行榜](https://www.jianshu.com/p/54ee5a4f31fb)
+
+## RxJava
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
